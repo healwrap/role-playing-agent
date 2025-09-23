@@ -2,7 +2,7 @@ import { useState } from 'react';
 
 function App() {
 
-  return <>vite</>;
+  return <>前端</>;
 }
 
 export default App;
