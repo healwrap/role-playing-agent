@@ -1,6 +1,6 @@
 import * as path from 'path';
 import * as winston from 'winston';
-import * as DailyRotateFile from 'winston-daily-rotate-file';
+import DailyRotateFile from 'winston-daily-rotate-file';
 
 // 定义日志级别
 const levels = {
